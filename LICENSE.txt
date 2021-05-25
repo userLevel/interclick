@@ -1,5 +1,3 @@
-LICENSE.txt
-
 » interclick » is provided subject to the MIT License, as modified below.
 
 The AutoHotkey script, which is the Software as defined below, shall be
