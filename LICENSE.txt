@@ -1,0 +1,63 @@
+LICENSE.txt
+
+» interclick » is provided subject to the MIT License, as modified below.
+
+The AutoHotkey script, which is the Software as defined below, shall be
+refered to for all other purposes as » interclick » is now and shall
+remain, without abrogration as a result of any failure to include this
+copyright notice, be copyright 2021 by Brian D. Vito in his personal
+capacity; none of Herringbrook Advisors LLC nor any other legal entity
+of which Mr. Vito may have any ownership shall have any ownership of
+the Software (as defined below).
+
+    NOTICE: The following license is modified and revised, and in all
+    instances such license shall be accompanied by, and in each and every
+    occasion in which such license may be read, such license must, without
+    failure of any kind or for any reason, be read in connection with, the
+    following license; for purposes of clarity, the following license is
+    irreparably rendered incomplete in all respects without the inclusion of
+    such RIDER A as a component of the following license with such same
+    authority as if such RIDER A were written below. The circumstance that
+    such RIDER A is written in an alternative document separate to this
+    document, which shall in no way affect the import as a fundamental
+    element to this license as is RIDER A, being an integral part of the
+    license for all legal purposes or otherwise and such RIDER A is to be
+    deemed and determined to be included, and shall be interpreted and must
+    be considered to be, in all events and in each and every situation,
+    scenario or circumstance a direct portion of the license below,
+    notwithstanding that such RIDER A is not included herein, but is instead
+    reproduced in the README.md file in this directory (i.e., a full,
+    complete, entire, pristine and unmodified presentation of the text of
+    RIDER A must in every instance in which this license must be distributed
+    be included herewith, as it is itself a portion of this license as
+    important and as basic to the meaning of the license as is any other
+    portion of the text of the license. Subject to the addition of the text,
+    language and meaning of RIDER A, the Software (and, of course, its use)
+    shall be subject to the following license (with the appropriate
+    incorporation of RIDER A where and as necessary to RIDER A having the
+    effect such as it is meant and intended to have in that the entirety of
+    the license provided below is, shall and will at all times and under all
+    situations and subject to all considerations be interpreted so as to
+    revise the meaning and permissions, as well as any other terms or
+    considerations, of the following, and to modify, mutatis mutandis, the
+    text of the following pre-existing license:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+// BDV bvito@sdf.org
